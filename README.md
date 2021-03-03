@@ -1,5 +1,5 @@
 # Hcaptcha-solver
-This is a very basic JS project I made that uses the "Request" module to interact with 2captcha.com API , using 2captcha this program will simply be able to solve Hcaptcha and return the "Token" value , this is used mainly for web testing / automation. As I am fairly new to JS this is a very basic example and in the future I will make this into a module that will be easier to use.
+This is a very basic JS project I made that uses the "Request" module to interact with 2captcha.com API , using 2captcha this program will simply be able to solve Hcaptcha and return the "Token (solved)" value , this is used mainly for web testing / automation. As I am fairly new to JS this is a very basic example and in the future I will make this into a module that will be easier to use.
 
 # Hcaptcha JS usage
 ```
