@@ -16,6 +16,15 @@ Line 5 - TimeoutWait is the delay between retries in milliseconds
 ![Alt text](https://i.imgur.com/escOg4L.png "Example")
 
 
+
+# Recommended settings
+```
+Maximum retries = 6;
+Timeoutwait = 7500;
+This means it will wait around 45 seconds for a result
+on average Hcaptcha returns result within the first 25 seconds !
+```
+
 # Dependecies / Resources
 [Request (package)](https://www.npmjs.com/package/request "Request") <br>
 [2captcha (API key)](https://2captcha.com?from=6752599 "2captcha.com")
